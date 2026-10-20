@@ -122,11 +122,6 @@ These are technologies I've worked with or explored through coursework and proje
   <img src="https://img.shields.io/badge/Alembic-563D7C?style=for-the-badge&logoColor=white" alt="Alembic" />
 </p>
 
-### Add or Update Later
-- **Additional verified skill:** [ADD SKILL]
-- **Additional framework or platform:** [ADD TECHNOLOGY]
-- **Certification (if applicable):** [ADD CERTIFICATION]
-
 ---
 
 ## 📊 GitHub Statistics
@@ -171,17 +166,17 @@ I'm open to learning, collaborating, and discussing AI/ML and full-stack project
   <a href="https://github.com/navodsamarakoon">
     <img src="https://img.shields.io/badge/GitHub-navodsamarakoon-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="[LINKEDIN_URL]">
+  <a href="www.linkedin.com/in/navod-samarakoon-065a01341">
     <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:navoddulsara2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Add%20Your%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
   </a>
 </p>
 
 - 🌐 **Portfolio:** Not available yet — coming later.
-- 💼 **LinkedIn:** [ADD LINKEDIN PROFILE URL]
-- 📧 **Email:** [ADD PUBLIC CONTACT EMAIL]
+- 💼 **LinkedIn:** www.linkedin.com/in/navod-samarakoon-065a01341
+- 📧 **Email:** navoddulsara2001@gmail.com
 
 ---
 
