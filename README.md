@@ -141,7 +141,7 @@ These are technologies I've worked with or explored through coursework and proje
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navodsamarakoon&bg_color=0A192F&color=E2E8F0&line=38BDF8&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navodsamarakoon&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
