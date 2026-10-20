@@ -137,14 +137,6 @@ These are technologies I've worked with or explored through coursework and proje
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navodsamarakoon&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
