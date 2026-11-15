@@ -16,9 +16,13 @@
       <img src="https://img.shields.io/github/followers/navodsamarakoon?style=for-the-badge&logo=github&color=0A192F&labelColor=1565C0" alt="GitHub followers" />
     </a>
     <a href="https://github.com/navodsamarakoon?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore-My%20Repositories-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-    </a>
-  </p>
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<a href="./Navod_Samarakoon_CV.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download%20CV-0078D4?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV" />
+</a>
+</p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+AI-powered+applications;Exploring+LLMs%2C+RAG+and+machine+learning;Connecting+AI+systems+with+full-stack+software;Learning+by+building+real-world+projects" alt="Animated introduction" />
 
