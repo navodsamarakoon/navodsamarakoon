@@ -35,6 +35,7 @@
 Hi! I'm **Navod Samarakoon**, a Computer Engineering undergraduate at the **University of Ruhuna, Sri Lanka**, interested in building practical software with AI.
 
 - 🤖 Focused on **AI/ML engineering**, LLM-powered applications, and applied machine learning.
+- 🤖 Building **agentic AI workflows** with **LangGraph** and **CrewAI**, exploring **multi-agent coordination**, and automating workflows with **n8n**.
 - 🌐 Interested in **full-stack development** and turning AI ideas into usable products.
 - 🧠 Exploring **Retrieval-Augmented Generation (RAG), hybrid search, GraphRAG, and LLM evaluation**.
 - 🛠️ Learning through project-based development, experimentation, and collaboration.
@@ -100,6 +101,15 @@ These are technologies I've worked with or explored through coursework and proje
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/RAGAS-1565C0?style=for-the-badge&logoColor=white" alt="RAGAS" />
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white" alt="LangSmith" />
+</p>
+
+### Agentic AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-D9484B?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/n8n-B23557?style=for-the-badge" alt="n8n" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-1565C0?style=for-the-badge" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-1D4ED8?style=for-the-badge" alt="Workflow Automation" />
 </p>
 
 ### Web & Backend Development
